@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ex-Google boss Eric Schmidt fears for 'Bin Laden' AI scenario",
+            "description": "Eric Schmidt says AI technology could \"harm innocent people\" if it ends up in the wrong hands.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y6eq2zxlno",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd5a/live/e1116e90-e956-11ef-bd1b-d536627785f2.jpg",
+            "publishedAt": "2025-02-13T01:37:21.7651789Z",
+            "content": "Mr Schmidt agreed with US export controls on powerful microchips which power the most advanced AI systems.\r\nBefore he left office, former US President Joe Biden restricted the export of microchips to… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump says Putin agrees to start talks to end war in Ukraine",
+            "description": "The US and Russia leaders speak over the phone after Trump says Nato membership for Ukraine is unlikely.",
+            "url": "https://www.bbc.co.uk/news/articles/c04n622gzx7o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcef/live/769942a0-e991-11ef-a582-45cb5edfdad7.jpg",
+            "publishedAt": "2025-02-13T01:07:24.5150097Z",
+            "content": "In his assessment of the mood in Ukraine's capital, the BBC's James Waterhouse says that Hegseth's speech will have been a body blow for Kyiv. \r\nWhile it has long been known the new US administration… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Santander and Barclays cut mortgage rates below 4% as market picks up.",
+            "description": "It's the first time mortgage deals with rates below 4% have been available since November.",
+            "url": "https://www.bbc.co.uk/news/articles/c0e43dqv271o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24d8/live/66749480-e926-11ef-9892-4b7641e79162.jpg",
+            "publishedAt": "2025-02-13T01:07:21.6719665Z",
+            "content": "Some tracker and variable rate mortgages move fairly closely in line with the Bank's base rate, which was cut to 4.5% a week ago. However, more than eight in 10 mortgage customers have fixed-rate dea… [+459 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Newspaper headlines: Putin 'peace talks' and a 'game of no halves'",
+            "description": "Thursday's front pages are dominated by a phone call between Donald Trump and Vladimir Putin.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx55lkxr7o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ef3/live/4d039740-e993-11ef-a319-fb4e7360c4ec.jpg",
+            "publishedAt": "2025-02-13T00:37:23.7193432Z",
+            "content": "Image caption, The Telegraph leads with the Trump-Putin phone call, alongside a huge photo of the US president with close ally Elon Musk - and the billionaire's son - inside the White House. It also … [+207 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Donald Trump offers Vladimir Putin a way back in from the cold",
+            "description": "The BBC's Steve Rosenberg analyses how one phone call between Moscow and DC has already upended east-west relations.",
+            "url": "https://www.bbc.co.uk/news/articles/c8ed3nk3n6ro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7c9/live/e930e680-e97b-11ef-ac30-7d72b02b7846.jpg",
+            "publishedAt": "2025-02-12T20:52:23.6102885Z",
+            "content": "A single phone call will not magically end the war in Ukraine.\r\nTalks may now get under way. Exactly when and how they will conclude isn't clear.\r\nBut President Vladimir Putin has already scored some… [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sicily's gangsters forced to modernise but complain they can't get the staff",
+            "description": "An investigation reveals a crime group having to adapt to modernity and displaying a nostalgia for past ambitions.",
+            "url": "https://www.bbc.co.uk/news/articles/c1wex4qq792o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b8e/live/0a83a8e0-e954-11ef-a319-fb4e7360c4ec.jpg",
+            "publishedAt": "2025-02-12T20:37:16.3115838Z",
+            "content": "Prime Minister Giorgia Meloni praised the operation by Italy's Carabinieri military police and promised that the fight against the Mafia \"has not stopped and will not stop\".\r\nHalf of those arrested a… [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Santorini fears for summer tourist season as earthquakes hit island",
+            "description": "The Greek island's most important industry will bounce back, but staffing is a worry say hoteliers",
+            "url": "https://www.bbc.co.uk/news/articles/cpvme8jw9dro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80aa/live/0c60f360-e95f-11ef-a5ae-231c1271acdf.jpg",
+            "publishedAt": "2025-02-12T19:52:21.5311138Z",
+            "content": "Santorini - one of Greece's most visited islands - relies heavily on seasonal workers from other parts of Greece and abroad, who help the permanent population of just over 15,000 to serve tens of tho… [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "British woman shot dead on holiday in Texas",
+            "description": "Police in Texas have conducted a \"thorough investigation\" into the death of Lucy Harrison.",
+            "url": "https://www.bbc.co.uk/news/articles/crke3p2nn2vo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c35/live/b7145fc0-e961-11ef-a5ae-231c1271acdf.jpg",
+            "publishedAt": "2025-02-12T19:22:24.8756593Z",
+            "content": "No details were shared in court as to how Ms Harrison was shot, or whether any criminal investigation is underway. \r\nAn official from the Town of Prosper said a \"thorough investigation\" into the \"tra… [+848 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "London’s first Roman basilica found under office basement",
+            "description": "The discovery has been described as one of the most important pieces of Roman history in the City of London.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2jdnv0ywyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e866/live/884fac20-e7be-11ef-ae7d-97b156abf29f.jpg",
+            "publishedAt": "2025-02-12T18:37:20.7196136Z",
+            "content": "The discovery has meant a change of plans for the building's owners, Hertshten Properties.\r\nThe Roman remains, which will now be fully excavated, are to be incorporated into the new offices - pending… [+766 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Wrongly convicted Andrew Malkinson gets first compensation payout",
+            "description": "A man who was wrongly jailed for 17 years receives the first instalment of a compensation payout.",
+            "url": "https://www.bbc.co.uk/news/articles/cy9lz1wwr20o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a76/live/54cd4850-e95b-11ef-a5ae-231c1271acdf.jpg",
+            "publishedAt": "2025-02-12T17:52:25.5636949Z",
+            "content": "Mr Malkinson said the £1m cap on compensation payouts for people who have been in jail for more than 10 years should be lifted. \r\n\"The ridiculous 2008 compensation cap which hasn't increased with inf… [+1094 chars]"
+        }
+    ]
+}
