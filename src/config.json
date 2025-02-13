@@ -1,0 +1,6 @@
+{
+    "api": {
+        "api_key": "19ecec0d5921476d92af125839d8f771",
+        "api_url": "https://newsapi.org/v2/top-headlines?country=us"
+    }
+}
